@@ -1,5 +1,6 @@
-# StyleGAN-T
-#### [[Project]](https://sites.google.com/view/stylegan-t/)    [[PDF]](https://arxiv.org/abs/2202.00273) 
+<img src="media/banner.png">
+
+#### [[Project]](https://sites.google.com/view/stylegan-t/)    [[PDF]](https://arxiv.org/abs/2202.00273)    [[Video]](https://www.youtube.com/watch?v=MMj8OTOUIok) 
 This repository will contain code for our paper "StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis".
 
 __Code coming soon.__
